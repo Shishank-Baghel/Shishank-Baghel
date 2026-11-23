@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shishank-Baghel
-- 👀 I’m interested in MERN STACK Development
-- 🌱 I’m currently learning WEB3
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning AI
 - 📫 How to reach me ... email:- shishankbaghel@gmail.com
 
 <!---
